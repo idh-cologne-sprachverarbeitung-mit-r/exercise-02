@@ -13,9 +13,7 @@ Install and launch R for the first time. Please go to [this page](https://cran.r
 
 After successful installation and launch of the R graphical user interface, it should look roughly like one of these:
 
-<img src="img/r-gui-mac.png" width="100" />
-<img src="img/r-gui-win.png" width="100" />
-<img src="img/r-gui-console.png" width="100" />
+<img src="img/r-gui-mac.png" width="200" /> <img src="img/r-gui-win.png" width="200" /> <img src="img/r-gui-console.png" width="200" />
 
 This is the R interpreter. It prompts you to enter commands after the `>` character. In this way, you can use R interactively (similar to the python interpreter, if you're familiar with that -- if not, don't worry, no need to be). 
 
