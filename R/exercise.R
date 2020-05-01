@@ -13,11 +13,10 @@ c <- c("foo", 42, "bar", 23, 3.14159)
 d <- 1:1000
 
 # e) Create a variable `e` that contains logical values (i.e., true or false). The values should reflect whether the same position in vector `d` is even. I.e., every second position should contain `TRUE`.
-is_even <- function(x) x%%2 == 0
-e <- lapply(d, is_even)
+e <- d %% 2 == 0
 
 # f) Create a variable `f` that adds contains *only* the even numbers between 1 and 1000.
-f <- d[is_even(d)]
+f <- d[d %% 2 == 0]
 
 # g) Assign the length of vector `f` to a variable `g`.
 g <- length(f)
