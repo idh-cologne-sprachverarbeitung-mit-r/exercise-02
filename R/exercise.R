@@ -7,7 +7,7 @@ a <- 5
 b <- "Hello"
 
 # c) Please create a variable called `c` that contains a vector with 5 elements (of your choice).
-c <- c("foo", 42, "bar", 23)
+c <- c("foo", 42, "bar", 23, 3.14159)
 
 # d) Please create a variable called `d` that contains the numbers from 1 to 1000.
 d <- 1:1000
