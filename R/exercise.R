@@ -30,7 +30,8 @@ g <- length(f)
 h <- mean(f) 
 
 # i) The file `R/exercise.R` contains a variable assignment `i0`. Find a way to define a variable `i`, such that it contains the elements of `i0` *in reverse order*.
-i <- rev(i0)
 
 i0 <- c("self", "future", "your", "to", "write", "you", "that", "letter", 
 "love", "a", "is", "Documentation")
+
+i <- rev(i0)
