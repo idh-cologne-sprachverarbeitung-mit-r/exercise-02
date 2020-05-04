@@ -3,7 +3,7 @@
 a <- 5
 
 # b) Please create a variable called `b` that contains the character sequence `Hello`.
-b <- "Hello!"
+b <- "Hello"
 
 # c) Please create a variable called `c` that contains a vector with 5 elements (of your choice).
 c <- c(12,23,45,85,8)
