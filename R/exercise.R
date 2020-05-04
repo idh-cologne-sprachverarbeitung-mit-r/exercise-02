@@ -18,7 +18,7 @@ e <- d%%2==0
 f <- d[d%%2==0]
 
 # g) Assign the length of vector `f` to a variable `g`.
-g <- c(f)
+g <- length(f)
 
 # h) Assign the mean of vector `f` to a variable `h`.
 h <- mean(f)
