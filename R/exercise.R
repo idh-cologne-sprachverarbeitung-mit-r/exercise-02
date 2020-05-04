@@ -1,4 +1,3 @@
-
 # a) Please create a variable called `a` that contains the number 5.
 a <- 5
 
