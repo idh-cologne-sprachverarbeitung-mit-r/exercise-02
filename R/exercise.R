@@ -2,7 +2,6 @@
 # a) Please create a variable called `a` that contains the number 5.
 a <- 5
 
-
 # b) Please create a variable called `b` that contains the character sequence `Hello`.
 b <- "Hello!"
 
@@ -16,7 +15,7 @@ d <- c(1:1000)
 e <- d%%2==0
 
 # f) Create a variable `f` that adds contains *only* the even numbers between 1 and 1000.
-f <- d[d%%2==0] 
+f <- d[d%%2==0]
 
 # g) Assign the length of vector `f` to a variable `g`.
 g <- c(f)
@@ -25,6 +24,7 @@ g <- c(f)
 h <- mean(f)
 
 # i) The file `R/exercise.R` contains a variable assignment `i0`. Find a way to define a variable `i`, such that it contains the elements of `i0` *in reverse order*.
-i <- rev(i0)
 i0 <- c("self", "future", "your", "to", "write", "you", "that", "letter", 
 "love", "a", "is", "Documentation")
+
+i <- rev(i0)
