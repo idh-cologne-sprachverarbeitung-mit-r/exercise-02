@@ -11,6 +11,7 @@ c <- c(10, 12, 3, 74, 95)
 d <- seq(from=1, to=1000)
 
 # e) Create a variable `e` that contains logical values (i.e., true or false). The values should reflect whether the same position in vector `d` is even. I.e., every second position should contain `TRUE`.
+e <- c()
 for (i in 1:1000) {
     if (i %% 2) {
         e <- append(e, TRUE)
