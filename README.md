@@ -1,6 +1,8 @@
 # Exercise 2: Getting R ready
 
-*In general: Please ask questions in the [ilias-Forum](https://www.ilias.uni-koeln.de/ilias/goto_uk_frm_3270419.html) for this course, so that others can also see the question and answer*.
+**In General**: Please ask questions in the [ilias-Forum](https://www.ilias.uni-koeln.de/ilias/goto_uk_frm_3270419.html) for this course, so that others can also see the question and answer*.
+
+*Please submit your solutions to this exercise until May 8th.*
 
 The goal of this exercise is to get the R environment on your computer ready and to get a first grasp on basic concepts of R. After installation, we will follow [this tutorial](https://cran.r-project.org/doc/manuals/r-release/R-intro.html), which is also available as a [PDF](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf) or [epub](https://cran.r-project.org/doc/manuals/r-release/R-intro.epub) file. It is the official R introduction produced by the developers of R.
 
@@ -11,9 +13,7 @@ Install and launch R for the first time. Please go to [this page](https://cran.r
 
 After successful installation and launch of the R graphical user interface, it should look roughly like one of these:
 
-![R GUI on Mac](img/r-gui-mac.png)
-![R GUI on Windows](img/r-gui-win.png)
-![R GUI on console](img/r-gui-console.png)
+<img src="img/r-gui-mac.png" width="200" /> <img src="img/r-gui-win.png" width="200" /> <img src="img/r-gui-console.png" width="200" />
 
 This is the R interpreter. It prompts you to enter commands after the `>` character. In this way, you can use R interactively (similar to the python interpreter, if you're familiar with that -- if not, don't worry, no need to be). 
 
